@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: playwright-api
+    runtime: image
+    repo: https://github.com/peterkay57/playwright-api
+    plan: free
+    dockerfilePath: ./Dockerfile
