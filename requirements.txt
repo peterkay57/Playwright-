@@ -5,3 +5,4 @@ playwright-stealth
 beautifulsoup4
 pandas
 google-generativeai
+python-dotenv
